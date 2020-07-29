@@ -1,4 +1,4 @@
-package com.itspread.stardropletsapp;
+package com.khemetic.stardropletsapp;
 
 import androidx.appcompat.app.AppCompatActivity;
 

@@ -1,4 +1,4 @@
-package com.itspread.stardropletsapp;
+package com.khemetic.stardropletsapp;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.itspread.stardropletsapp", appContext.getPackageName());
+        assertEquals("com.khemetic.stardropletsapp", appContext.getPackageName());
     }
 }
